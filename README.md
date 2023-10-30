@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=dripfsn">
+  <img align="right" src="https://komarev.com/ghpvc/?username=dripfsn&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -94,19 +94,19 @@
 
 <p align="center">
   <a href="https://github.com/dripfsn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Drip's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dripfsn&theme=radical&border=7F3FBF&background=0D1117" alt="Drip's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/dripfsn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drip&theme=radical" alt="Drip's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dripfsn&theme=radical" alt="Drip's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/dripfsn"><img alt="Drip's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=drip&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/dripfsn"><img alt="Drip's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=drip&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/dripfsn"><img alt="Drip's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dripfsn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/dripfsn"><img alt="Drip's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dripfsn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
